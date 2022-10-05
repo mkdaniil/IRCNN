@@ -11,7 +11,7 @@ import tensorlayer as tl
 from model import IRCNN
 from utils import *
 from config import config, log_config
-
+#edit by mkdaniil chapter3 
 os.environ["CUDA_VISIBLE_DEVICES"]= '1'
 
 ###====================== HYPER-PARAMETERS ===========================###
